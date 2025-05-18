@@ -7,7 +7,7 @@ This is a basic HTML-based application form built using only HTML and inline CSS
 
 ---
 
-## 📄 Features
+## 🚀 Features
 
 - Clean and straightforward HTML structure
 - Inline CSS for simple styling
