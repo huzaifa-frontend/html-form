@@ -1,9 +1,9 @@
+
 # Application Form (HTML Only)
 
 This is a basic HTML-based application form built using only HTML and inline CSS. It includes multiple sections that simulate a health insurance form with a variety of input fields such as text, date, radio buttons, tables, and fieldsets for better grouping and structure.
 
-🔗 **Live Preview:**  
-[Click here to view the live form](https://huzaifa-frontend.github.io/html-form/)
+🌐 **Live Site:** [Click here to view the project](https://huzaifa-frontend.github.io/html-form/)
 
 ---
 
@@ -51,9 +51,13 @@ This is a basic HTML-based application form built using only HTML and inline CSS
 
 ## 📂 Project Structure
 
+```
 html-form/
-├── index.html # Main HTML file with inline CSS
-├── README.md # Project documentation
+├── index.html       # Main HTML file with inline CSS
+├── README.md        # Project documentation
+```
+
+---
 
 ## ✍️ Author
 
@@ -65,6 +69,11 @@ html-form/
 ## 🔄 Deployment
 This project is deployed via GitHub Pages. Any changes pushed to the main branch will automatically update the live site.
 
+
+## 📬 Contact
+For any queries or collaboration requests, feel free to reach out via GitHub.
+
 ---
 
 © 2025 Muhammad Huzaifa Karim
+
